@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/home" />
+    <item
+        android:id="@+id/navigation_home"
+        android:title="Missing Pets"
+        android:icon="@drawable/profile" />
+
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:title="Pet Profile"
+        android:icon="@drawable/pets" />
+</menu>
